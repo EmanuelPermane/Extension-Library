@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "plugin_version": "1.0.0",
-    "generated_at": "2025-12-10T20:38:22+00:00",
+    "generated_at": "2025-12-10T23:29:55+00:00",
     "extensions": [
         {
             "slug": "woocommerce",
@@ -13,7 +13,8 @@
             "extension_json": "extensions/woocommerce/extension.json",
             "readme_path": "extensions/woocommerce/README.md",
             "zip_filename": "manny-extension-woocommerce.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/woocommerce/manny-extension-woocommerce.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/woocommerce/manny-extension-woocommerce.zip",
+            "requires_extensions": []
         },
         {
             "slug": "restrict-content-pro",
@@ -25,7 +26,8 @@
             "extension_json": "extensions/restrict-content-pro/extension.json",
             "readme_path": "extensions/restrict-content-pro/README.md",
             "zip_filename": "manny-extension-rcp.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/restrict-content-pro/manny-extension-rcp.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/restrict-content-pro/manny-extension-rcp.zip",
+            "requires_extensions": []
         },
         {
             "slug": "affiliatewp",
@@ -37,7 +39,8 @@
             "extension_json": "extensions/affiliatewp/extension.json",
             "readme_path": "extensions/affiliatewp/README.md",
             "zip_filename": "manny-extension-affiliatewp.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip",
+            "requires_extensions": []
         },
         {
             "slug": "learndash",
@@ -49,7 +52,8 @@
             "extension_json": "extensions/learndash/extension.json",
             "readme_path": "extensions/learndash/README.md",
             "zip_filename": "manny-extension-learndash.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/learndash/manny-extension-learndash.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/learndash/manny-extension-learndash.zip",
+            "requires_extensions": []
         },
         {
             "slug": "memberpress",
@@ -61,7 +65,8 @@
             "extension_json": "extensions/memberpress/extension.json",
             "readme_path": "extensions/memberpress/README.md",
             "zip_filename": "manny-extension-memberpress.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/memberpress/manny-extension-memberpress.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/manny-extension-memberpress.zip",
+            "requires_extensions": []
         },
         {
             "slug": "edd",
@@ -73,7 +78,8 @@
             "extension_json": "extensions/edd/extension.json",
             "readme_path": "extensions/edd/README.md",
             "zip_filename": "manny-extension-edd.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/edd/manny-extension-edd.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/edd/manny-extension-edd.zip",
+            "requires_extensions": []
         },
         {
             "slug": "gravityforms",
@@ -85,7 +91,8 @@
             "extension_json": "extensions/gravityforms/extension.json",
             "readme_path": "extensions/gravityforms/README.md",
             "zip_filename": "manny-extension-gravityforms.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/gravityforms/manny-extension-gravityforms.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/gravityforms/manny-extension-gravityforms.zip",
+            "requires_extensions": []
         },
         {
             "slug": "fluentforms",
@@ -97,7 +104,8 @@
             "extension_json": "extensions/fluentforms/extension.json",
             "readme_path": "extensions/fluentforms/README.md",
             "zip_filename": "manny-extension-fluentforms.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip",
+            "requires_extensions": []
         },
         {
             "slug": "givewp",
@@ -109,7 +117,8 @@
             "extension_json": "extensions/givewp/extension.json",
             "readme_path": "extensions/givewp/README.md",
             "zip_filename": "manny-extension-givewp.zip",
-            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/givewp/manny-extension-givewp.zip"
+            "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/givewp/manny-extension-givewp.zip",
+            "requires_extensions": []
         }
     ]
 }

@@ -8,6 +8,8 @@
         "plugin": "memberpress/memberpress.php",
         "php": "8.1"
     },
-    "readme_url": "https://example.com/manny-extension-library/1.0.0/extensions/memberpress/README.md",
-    "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/memberpress/manny-extension-memberpress.zip"
+    "requires_extensions": [],
+    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/README.md",
+    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/manny-extension-memberpress.zip",
+    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/README.md"
 }
