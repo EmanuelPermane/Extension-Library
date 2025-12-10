@@ -1,0 +1,13 @@
+{
+    "slug": "learndash",
+    "name": "LearnDash",
+    "version": "1.0.0",
+    "min_manny_version": "1.0.0",
+    "description": "Integrates LearnDash courses and progress into Manny entitlements.",
+    "requires": {
+        "plugin": "sfwd-lms/sfwd_lms.php",
+        "php": "8.1"
+    },
+    "readme_url": "https://example.com/manny-extension-library/1.0.0/extensions/learndash/README.md",
+    "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/learndash/manny-extension-learndash.zip"
+}

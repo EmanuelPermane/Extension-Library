@@ -1,0 +1,114 @@
+{
+    "schema_version": 1,
+    "plugin_version": "1.0.0",
+    "extensions": [
+        {
+            "slug": "woocommerce",
+            "name": "WooCommerce Integration",
+            "description": "Order and subscription entitlements backed by WooCommerce.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "woocommerce/woocommerce.php",
+            "extension_json": "extensions/woocommerce/extension.json",
+            "readme_path": "extensions/woocommerce/README.md",
+            "zip_filename": "manny-extension-woocommerce.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/woocommerce/manny-extension-woocommerce.zip"
+        },
+        {
+            "slug": "restrict-content-pro",
+            "name": "Restrict Content Pro Integration",
+            "description": "Membership plans and access flags via Restrict Content Pro.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "restrict-content-pro/restrict-content-pro.php",
+            "extension_json": "extensions/restrict-content-pro/extension.json",
+            "readme_path": "extensions/restrict-content-pro/README.md",
+            "zip_filename": "manny-extension-rcp.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/restrict-content-pro/manny-extension-rcp.zip"
+        },
+        {
+            "slug": "affiliatewp",
+            "name": "AffiliateWP Integration",
+            "description": "Affiliate accounts, referrals, and entitlements powered by AffiliateWP.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "affiliate-wp/affiliate-wp.php",
+            "extension_json": "extensions/affiliatewp/extension.json",
+            "readme_path": "extensions/affiliatewp/README.md",
+            "zip_filename": "manny-extension-affiliatewp.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip"
+        },
+        {
+            "slug": "learndash",
+            "name": "LearnDash",
+            "description": "Integrates LearnDash courses and progress into Manny entitlements.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "sfwd-lms/sfwd_lms.php",
+            "extension_json": "extensions/learndash/extension.json",
+            "readme_path": "extensions/learndash/README.md",
+            "zip_filename": "manny-extension-learndash.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/learndash/manny-extension-learndash.zip"
+        },
+        {
+            "slug": "memberpress",
+            "name": "MemberPress",
+            "description": "Integrates MemberPress memberships and rules into Manny entitlements.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "memberpress/memberpress.php",
+            "extension_json": "extensions/memberpress/extension.json",
+            "readme_path": "extensions/memberpress/README.md",
+            "zip_filename": "manny-extension-memberpress.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/memberpress/manny-extension-memberpress.zip"
+        },
+        {
+            "slug": "edd",
+            "name": "Easy Digital Downloads",
+            "description": "Integrates Easy Digital Downloads purchases and licenses into Manny entitlements.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "easy-digital-downloads/easy-digital-downloads.php",
+            "extension_json": "extensions/edd/extension.json",
+            "readme_path": "extensions/edd/README.md",
+            "zip_filename": "manny-extension-edd.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/edd/manny-extension-edd.zip"
+        },
+        {
+            "slug": "gravityforms",
+            "name": "Gravity Forms",
+            "description": "Registers Gravity Forms as a forms provider for Manny.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "gravityforms/gravityforms.php",
+            "extension_json": "extensions/gravityforms/extension.json",
+            "readme_path": "extensions/gravityforms/README.md",
+            "zip_filename": "manny-extension-gravityforms.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/gravityforms/manny-extension-gravityforms.zip"
+        },
+        {
+            "slug": "fluentforms",
+            "name": "Fluent Forms",
+            "description": "Registers Fluent Forms as a forms provider for Manny.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "fluentform/fluentform.php",
+            "extension_json": "extensions/fluentforms/extension.json",
+            "readme_path": "extensions/fluentforms/README.md",
+            "zip_filename": "manny-extension-fluentforms.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip"
+        },
+        {
+            "slug": "givewp",
+            "name": "GiveWP",
+            "description": "Integrates GiveWP donation history into Manny entitlements.",
+            "version": "1.0.0",
+            "min_manny_version": "1.0.0",
+            "requires_plugin": "givewp/givewp.php",
+            "extension_json": "extensions/givewp/extension.json",
+            "readme_path": "extensions/givewp/README.md",
+            "zip_filename": "manny-extension-givewp.zip",
+            "zip_url": "https://example.com/manny-extension-library/1.0.0/extensions/givewp/manny-extension-givewp.zip"
+        }
+    ]
+}
