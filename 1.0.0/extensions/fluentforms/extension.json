@@ -1,15 +1,12 @@
 {
-    "slug": "fluentforms",
-    "name": "Fluent Forms",
-    "version": "1.0.0",
-    "min_manny_version": "1.0.0",
-    "description": "Registers Fluent Forms as a forms provider for Manny.",
-    "requires": {
-        "plugin": "fluentform/fluentform.php",
-        "php": "8.1"
-    },
-    "requires_extensions": [],
-    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/fluentforms/README.md",
-    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip",
-    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/fluentforms/README.md"
+  "slug": "fluentforms",
+  "name": "Fluent Forms",
+  "description": "Registers Fluent Forms as a forms provider for Manny.",
+  "version": "1.0.0",
+  "min_manny_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "fluentform/fluentform.php",
+  "requires_extensions": [],
+  "docs_url": "1.0.0/extensions/fluentforms/README.md",
+  "zip_url": "1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip"
 }

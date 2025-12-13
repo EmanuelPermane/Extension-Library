@@ -1,10 +1,10 @@
 # Fluent Forms
 
-Version: 1.0.0
-
-This extension integrates Manny REST Route Manager with Fluent Forms.
 Registers Fluent Forms as a forms provider for Manny.
 
-Requirements:
-- Manny REST Route Manager 1.0.0 or newer.
-- fluentform/fluentform.php active on this site.\n\nSee the Manny documentation for installation and configuration details.
+Version: 1.0.0
+Min Manny Version: 1.0.0
+
+Docs: 1.0.0/extensions/fluentforms/README.md
+
+Requires plugin: fluentform/fluentform.php

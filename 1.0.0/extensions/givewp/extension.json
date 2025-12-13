@@ -1,15 +1,12 @@
 {
-    "slug": "givewp",
-    "name": "GiveWP",
-    "version": "1.0.0",
-    "min_manny_version": "1.0.0",
-    "description": "Integrates GiveWP donation history into Manny entitlements.",
-    "requires": {
-        "plugin": "givewp/givewp.php",
-        "php": "8.1"
-    },
-    "requires_extensions": [],
-    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/givewp/README.md",
-    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/givewp/manny-extension-givewp.zip",
-    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/givewp/README.md"
+  "slug": "givewp",
+  "name": "GiveWP",
+  "description": "Integrates GiveWP donation history into Manny entitlements.",
+  "version": "1.0.0",
+  "min_manny_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "givewp/givewp.php",
+  "requires_extensions": [],
+  "docs_url": "1.0.0/extensions/givewp/README.md",
+  "zip_url": "1.0.0/extensions/givewp/manny-extension-givewp.zip"
 }

@@ -1,15 +1,12 @@
 {
-    "slug": "memberpress",
-    "name": "MemberPress",
-    "version": "1.0.0",
-    "min_manny_version": "1.0.0",
-    "description": "Integrates MemberPress memberships and rules into Manny entitlements.",
-    "requires": {
-        "plugin": "memberpress/memberpress.php",
-        "php": "8.1"
-    },
-    "requires_extensions": [],
-    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/README.md",
-    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/manny-extension-memberpress.zip",
-    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/memberpress/README.md"
+  "slug": "memberpress",
+  "name": "MemberPress",
+  "description": "Integrates MemberPress memberships and rules into Manny entitlements.",
+  "version": "1.0.0",
+  "min_manny_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "memberpress/memberpress.php",
+  "requires_extensions": [],
+  "docs_url": "1.0.0/extensions/memberpress/README.md",
+  "zip_url": "1.0.0/extensions/memberpress/manny-extension-memberpress.zip"
 }

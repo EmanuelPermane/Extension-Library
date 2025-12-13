@@ -1,15 +1,12 @@
 {
-    "slug": "restrict-content-pro",
-    "name": "Restrict Content Pro Integration",
-    "version": "1.0.0",
-    "min_manny_version": "1.0.0",
-    "description": "Membership plans and access flags via Restrict Content Pro.",
-    "requires": {
-        "plugin": "restrict-content-pro/restrict-content-pro.php",
-        "php": "8.1"
-    },
-    "requires_extensions": [],
-    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/restrict-content-pro/README.md",
-    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/restrict-content-pro/manny-extension-rcp.zip",
-    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/restrict-content-pro/README.md"
+  "slug": "restrict-content-pro",
+  "name": "Restrict Content Pro Integration",
+  "description": "Membership plans and access flags via Restrict Content Pro.",
+  "version": "1.0.0",
+  "min_manny_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "restrict-content-pro/restrict-content-pro.php",
+  "requires_extensions": [],
+  "docs_url": "1.0.0/extensions/restrict-content-pro/README.md",
+  "zip_url": "1.0.0/extensions/restrict-content-pro/manny-extension-restrict-content-pro.zip"
 }

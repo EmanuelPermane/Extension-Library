@@ -1,15 +1,12 @@
 {
-    "slug": "affiliatewp",
-    "name": "AffiliateWP Integration",
-    "version": "1.0.0",
-    "min_manny_version": "1.0.0",
-    "description": "Affiliate accounts, referrals, and entitlements powered by AffiliateWP.",
-    "requires": {
-        "plugin": "affiliate-wp/affiliate-wp.php",
-        "php": "8.1"
-    },
-    "requires_extensions": [],
-    "readme_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/affiliatewp/README.md",
-    "zip_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip",
-    "docs_url": "https://raw.githubusercontent.com/EmanuelPermane/Extension-Library/refs/heads/main/1.0.0/extensions/affiliatewp/README.md"
+  "slug": "affiliatewp",
+  "name": "AffiliateWP Integration",
+  "description": "Affiliate accounts, referrals, and entitlements powered by AffiliateWP.",
+  "version": "1.0.0",
+  "min_manny_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "affiliate-wp/affiliate-wp.php",
+  "requires_extensions": [],
+  "docs_url": "1.0.0/extensions/affiliatewp/README.md",
+  "zip_url": "1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip"
 }
