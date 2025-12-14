@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "gravityforms/gravityforms.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/gravityforms/README.md",
-  "zip_url": "1.0.0/extensions/gravityforms/manny-extension-gravityforms.zip"
+  "docs_url": "extensions/gravityforms/README.md",
+  "zip_url": "extensions/gravityforms/manny-extension-gravityforms.zip"
 }

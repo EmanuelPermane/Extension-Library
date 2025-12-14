@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "restrict-content-pro/restrict-content-pro.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/restrict-content-pro/README.md",
-  "zip_url": "1.0.0/extensions/restrict-content-pro/manny-extension-restrict-content-pro.zip"
+  "docs_url": "extensions/restrict-content-pro/README.md",
+  "zip_url": "extensions/restrict-content-pro/manny-extension-restrict-content-pro.zip"
 }

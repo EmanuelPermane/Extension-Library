@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "affiliate-wp/affiliate-wp.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/affiliatewp/README.md",
-  "zip_url": "1.0.0/extensions/affiliatewp/manny-extension-affiliatewp.zip"
+  "docs_url": "extensions/affiliatewp/README.md",
+  "zip_url": "extensions/affiliatewp/manny-extension-affiliatewp.zip"
 }

@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "fluentform/fluentform.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/fluentforms/README.md",
-  "zip_url": "1.0.0/extensions/fluentforms/manny-extension-fluentforms.zip"
+  "docs_url": "extensions/fluentforms/README.md",
+  "zip_url": "extensions/fluentforms/manny-extension-fluentforms.zip"
 }

@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "woocommerce/woocommerce.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/woocommerce/README.md",
-  "zip_url": "1.0.0/extensions/woocommerce/manny-extension-woocommerce.zip"
+  "docs_url": "extensions/woocommerce/README.md",
+  "zip_url": "extensions/woocommerce/manny-extension-woocommerce.zip"
 }

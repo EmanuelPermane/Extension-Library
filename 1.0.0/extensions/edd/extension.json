@@ -7,6 +7,6 @@
   "requires_php": "8.1",
   "requires_plugin": "easy-digital-downloads/easy-digital-downloads.php",
   "requires_extensions": [],
-  "docs_url": "1.0.0/extensions/edd/README.md",
-  "zip_url": "1.0.0/extensions/edd/manny-extension-edd.zip"
+  "docs_url": "extensions/edd/README.md",
+  "zip_url": "extensions/edd/manny-extension-edd.zip"
 }
