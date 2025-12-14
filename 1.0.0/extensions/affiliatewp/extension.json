@@ -7,6 +7,7 @@
   "requires_php": "8.1",
   "requires_plugin": "affiliate-wp/affiliate-wp.php",
   "requires_extensions": [],
+  "provider_class": "Manny\\RestRouteManager\\Extensions\\AffiliateWpExtensionProvider",
   "docs_url": "extensions/affiliatewp/README.md",
   "zip_url": "extensions/affiliatewp/manny-extension-affiliatewp.zip"
 }

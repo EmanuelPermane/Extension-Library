@@ -7,6 +7,7 @@
   "requires_php": "8.1",
   "requires_plugin": "easy-digital-downloads/easy-digital-downloads.php",
   "requires_extensions": [],
+  "provider_class": "Manny\\RestRouteManager\\Extensions\\EddExtensionProvider",
   "docs_url": "extensions/edd/README.md",
   "zip_url": "extensions/edd/manny-extension-edd.zip"
 }
