@@ -9,7 +9,7 @@
       "body": "A security fix is available. Update Manny Rest Route Manager as soon as possible.",
       "min_version": "1.0.0",
       "max_version": "1.2.0",
-      "dismissible": false,
+      "dismissible": true,
       "learn_more_url": "https://example.com/security-advisory"
     },
     {
