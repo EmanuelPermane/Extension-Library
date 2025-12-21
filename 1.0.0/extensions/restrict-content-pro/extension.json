@@ -1,0 +1,13 @@
+{
+  "slug": "restrict-content-pro",
+  "name": "Restrict Content Pro Integration",
+  "description": "Membership plans and access flags via Restrict Content Pro.",
+  "version": "1.0.0",
+  "min_headlesswp_pro_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "restrict-content-pro/restrict-content-pro.php",
+  "requires_extensions": [],
+  "provider_class": "HeadlessWPPro\\Extensions\\RestrictContentProExtensionProvider",
+  "docs_url": "extensions/restrict-content-pro/README.md",
+  "zip_url": "extensions/restrict-content-pro/headlesswp-pro-extension-restrict-content-pro.zip"
+}

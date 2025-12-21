@@ -1,0 +1,13 @@
+{
+  "slug": "edd",
+  "name": "Easy Digital Downloads",
+  "description": "Integrates Easy Digital Downloads purchases and licenses into HeadlessWP Pro entitlements.",
+  "version": "1.0.0",
+  "min_headlesswp_pro_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "easy-digital-downloads/easy-digital-downloads.php",
+  "requires_extensions": [],
+  "provider_class": "HeadlessWPPro\\Extensions\\EddExtensionProvider",
+  "docs_url": "extensions/edd/README.md",
+  "zip_url": "extensions/edd/headlesswp-pro-extension-edd.zip"
+}

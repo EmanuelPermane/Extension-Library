@@ -1,0 +1,13 @@
+{
+  "slug": "fluentforms",
+  "name": "Fluent Forms",
+  "description": "Registers Fluent Forms as a forms provider for HeadlessWP Pro.",
+  "version": "1.0.0",
+  "min_headlesswp_pro_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "fluentform/fluentform.php",
+  "requires_extensions": [],
+  "provider_class": "HeadlessWPPro\\Extensions\\FluentFormsExtensionProvider",
+  "docs_url": "extensions/fluentforms/README.md",
+  "zip_url": "extensions/fluentforms/headlesswp-pro-extension-fluentforms.zip"
+}

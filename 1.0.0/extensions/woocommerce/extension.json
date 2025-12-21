@@ -1,0 +1,13 @@
+{
+  "slug": "woocommerce",
+  "name": "WooCommerce Integration",
+  "description": "Order and subscription entitlements backed by WooCommerce.",
+  "version": "1.0.0",
+  "min_headlesswp_pro_version": "1.0.0",
+  "requires_php": "8.1",
+  "requires_plugin": "woocommerce/woocommerce.php",
+  "requires_extensions": [],
+  "provider_class": "HeadlessWPPro\\Extensions\\WooCommerceExtensionProvider",
+  "docs_url": "extensions/woocommerce/README.md",
+  "zip_url": "extensions/woocommerce/headlesswp-pro-extension-woocommerce.zip"
+}
