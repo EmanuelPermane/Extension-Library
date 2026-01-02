@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "generated_at": "2025-12-16T00:00:00Z",
+  "messages": [
+    {
+      "id": "critical-security-update-2025-12-16",
+      "type": "critical",
+      "title": "Security update required",
+      "body": "A security fix is available. Update Manny Rest Route Manager as soon as possible.",
+      "min_version": "1.0.0",
+      "max_version": "1.2.0",
+      "dismissible": true,
+      "learn_more_url": "https://example.com/security-advisory"
+    },
+    {
+      "id": "warning-extensions-load-order-2025-12-16",
+      "type": "warning",
+      "title": "Extensions may show as missing after install",
+      "body": "If you installed an extension but it still shows as missing, confirm both the Manny extension plugin and its dependency plugin are active in Plugins. Then reload this page.",
+      "min_version": "1.0.0",
+      "max_version": "1.0.9",
+      "dismissible": true,
+      "learn_more_url": "https://example.com/extensions-troubleshooting"
+    },
+    {
+      "id": "info-playbook-available-2025-12-16",
+      "type": "info",
+      "title": "Operator playbook is available",
+      "body": "A step-by-step operator playbook is now included to help with installs, smoke testing, and troubleshooting.",
+      "min_version": "1.0.0",
+      "max_version": "9.9.9",
+      "dismissible": true,
+      "cta": {
+        "label": "Open playbook",
+        "url": "https://example.com/operator-playbook"
+      }
+    },
+    {
+      "id": "promo-new-plugin-2025-12-16",
+      "type": "promo",
+      "title": "New plugin available",
+      "body": "Check out the newest Manny companion plugin for additional admin automation and diagnostics.",
+      "min_version": "1.0.0",
+      "max_version": "2.0.0",
+      "dismissible": true,
+      "cta": {
+        "label": "Learn more",
+        "url": "https://example.com/new-plugin"
+      }
+    }
+  ]
+}
