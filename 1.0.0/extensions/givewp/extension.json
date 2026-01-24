@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "min_headlesswp_pro_version": "1.0.0",
   "requires_php": "8.1",
-  "requires_plugin": "givewp/givewp.php",
+  "requires_plugin": "give/give.php",
   "requires_extensions": [],
   "provider_class": "HeadlessWPPro\\Extensions\\GiveWpExtensionProvider",
   "docs_url": "extensions/givewp/README.md",

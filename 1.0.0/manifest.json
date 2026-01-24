@@ -12,6 +12,30 @@
         "zip_url": "extensions/woocommerce/headlesswp-pro-extension-woocommerce.zip"
     },
     {
+        "slug": "fluent-booking",
+        "name": "FluentBooking",
+        "description": "Registers FluentBooking as the bookings provider for HeadlessWP Pro.",
+        "version": "1.0.0",
+        "min_headlesswp_pro_version": "1.0.0",
+        "requires_plugin": "fluent-booking/fluent-booking.php",
+        "provider_class": "HeadlessWPPro\\Extensions\\FluentBookingExtensionProvider",
+        "requires_extensions": [],
+        "docs_url": "extensions/fluent-booking/README.md",
+        "zip_url": "extensions/fluent-booking/headlesswp-pro-extension-fluent-booking.zip"
+    },
+    {
+        "slug": "fluent-booking-pro",
+        "name": "FluentBooking Pro",
+        "description": "Registers FluentBooking Pro as a supported dependency for bookings.",
+        "version": "1.0.0",
+        "min_headlesswp_pro_version": "1.0.0",
+        "requires_plugin": "fluent-booking-pro/fluent-booking-pro.php",
+        "provider_class": "HeadlessWPPro\\Extensions\\FluentBookingExtensionProvider",
+        "requires_extensions": [],
+        "docs_url": "extensions/fluent-booking-pro/README.md",
+        "zip_url": "extensions/fluent-booking-pro/headlesswp-pro-extension-fluent-booking-pro.zip"
+    },
+    {
         "slug": "restrict-content-pro",
         "name": "Restrict Content Pro Integration",
         "description": "Membership plans and access flags via Restrict Content Pro.",
@@ -77,7 +101,7 @@
         "description": "Integrates GiveWP donation history into HeadlessWP Pro entitlements.",
         "version": "1.0.0",
         "min_headlesswp_pro_version": "1.0.0",
-        "requires_plugin": "givewp/givewp.php",
+        "requires_plugin": "give/give.php",
         "provider_class": "HeadlessWPPro\\Extensions\\GiveWpExtensionProvider",
         "requires_extensions": [],
         "docs_url": "extensions/givewp/README.md",

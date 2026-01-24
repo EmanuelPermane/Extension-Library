@@ -7,4 +7,4 @@ Min HeadlessWP Pro Version: 1.0.0
 
 Docs: extensions/givewp/README.md
 
-Requires plugin: givewp/givewp.php
+Requires plugin: give/give.php
